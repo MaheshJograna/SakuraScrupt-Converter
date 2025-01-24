@@ -2,11 +2,11 @@
 A simple and interactive Japanese conversion tool that converts romaji to either Hiragana or Katakana characters.
 This project utilizes React, Vite, TailwindCSS, and Framer Motion for a smooth, dynamic user experience.
 ### Features
-Converts romaji input into either Hiragana (ひらがな) or Katakana (カタカナ).
-Option to switch between Hiragana and Katakana modes.
-Copy output to clipboard with ease.
-Beautiful, minimal design with smooth animations.
-Switch to Dark mode, perfect for low-light environments.
+1. Converts romaji input into either Hiragana (ひらがな) or Katakana (カタカナ).
+2. Option to switch between Hiragana and Katakana modes.
+3. Copy output to clipboard with ease.
+4. Beautiful, minimal design with smooth animations.
+5. Switch to Dark mode, perfect for low-light environments.
 ### Technologies Used
 React: JavaScript library for building user interfaces.
 Vite: Build tool that focuses on speed and development experience.
