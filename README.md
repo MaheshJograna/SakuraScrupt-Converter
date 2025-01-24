@@ -6,6 +6,7 @@ Converts romaji input into either Hiragana (ひらがな) or Katakana (カタカ
 Option to switch between Hiragana and Katakana modes.
 Copy output to clipboard with ease.
 Beautiful, minimal design with smooth animations.
+Switch to Dark mode, perfect for low-light environments.
 ### Technologies Used
 React: JavaScript library for building user interfaces.
 Vite: Build tool that focuses on speed and development experience.
