@@ -125,7 +125,25 @@ const katakanaMap = {
     ryo: "リョ",
   
     // Small tsu (used to double consonants)
-    "っ": "ッ",
+    tsu: "ッ",
+
+    // Long vowels
+    aa : "アー",
+    ii : "イー",
+    uu : "ウー",
+    ee : "エー",
+    oo : "オー",
+    kaa : "カー",
+    kii : "キー",
+    kuu : "クー",
+    kee : "ケー",
+    koo : "コー",
+    gaa : "ガー",
+    gii : "ギー",
+    guu : "グー",
+    gee : "ゲー",
+    goo : "ゴー",
+
   };
   
   export default katakanaMap;

@@ -2,7 +2,9 @@ const hiraganaMap = {
     a: "あ",
     i: "い",
     u: "う",
+    oo: "う",
     e: "え",
+    ii: "え",
     o: "お",
     ka: "か",
     ki: "き",
@@ -16,7 +18,8 @@ const hiraganaMap = {
     so: "そ",
     ta: "た",
     chi: "ち",
-    tsu: "つ",
+    Tsu: "つ",
+    tsu: "っ",
     te: "て",
     to: "と",
     na: "な",
@@ -101,6 +104,8 @@ const hiraganaMap = {
     pya: "ぴゃ",
     pyu: "ぴゅ",
     pyo: "ぴょ",
+    
+
   }
   
   export default hiraganaMap
